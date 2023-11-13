@@ -1,0 +1,9 @@
+.titulo-respostas {
+  color: var(--bs-primary-text-emphasis);
+  font-style: italic;
+}
+
+.container {
+  padding-bottom: 1rem;
+}
+
